@@ -6,7 +6,7 @@ In spite of the perils, scattered around the map are the different keys that Jer
 Furthermore, the keys upon retrieval also boost the Spaceship's score, ensuring further protection against the giant aliens. 
 There are also different balls of energy appearing sporadically around the map that boost the Spaceship's score further.
 
-This project was done in 2023, as part of CMPT 276 at SFU, alongside 3 others in a team.
+(I did this project as part of CMPT 276: Introduction to Software Engineering at SFU, alongside 3 others.)
 
 ## Prerequisites
 
