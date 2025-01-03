@@ -18,7 +18,7 @@ This project was done in 2023, as part of CMPT 276 at SFU, alongside 3 others in
 
 Clone the repository and navigate to the project folder, by typing the following in your terminal:
 
-git clone 
+git clone https://github.com/AnangaB/Cosmic-Escape.git
 
 cd Cosmic-Escape
 
